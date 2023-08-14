@@ -98,3 +98,9 @@ My name is Olga Bessonova. Welcome to my GitHub page!
 <p align="left">
 <a href="https://www.leetcode.com/osleepless" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="osleepless" height="30" width="40" /></a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olga-bessonova&show_icons=true&locale=en&layout=compact" alt="olga-bessonova" /></p>
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olga-bessonova&show_icons=true&locale=en" alt="olga-bessonova" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olga-bessonova&" alt="olga-bessonova" /></p> -->
