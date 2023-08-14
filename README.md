@@ -1,14 +1,14 @@
-<div id="header" align="center">
-   <img src="assets/computer.gif" width="150" />
+<div id="header" align="center" style="margin-top: 10px;">
+   <img src="assets/computer.gif" width="150" style="margin-bottom: 30px;"/>
  
   <div id="badges">
     <a target="_blank" href="https://www.linkedin.com/in/olgabessonova-/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a target="_blank" href="https://olga-bessonova.github.io/portfolio/">
-      <img src="https://img.shields.io/badge/portfolio-pink?style=for-the-badge&logo=Portfolio&logoColor=white" alt="WellFound Badge"/>
+      <img src="https://img.shields.io/badge/portfolio-pink?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio Badge"/>
     </a>
-    <a target="_blank" href="https://wellfound.com/u/olga-borovikova">
+    <a target="_blank" href="https://wellfound.com/u/olgabessonova">
       <img src="https://img.shields.io/badge/wellfound-white?style=for-the-badge&logo=AngelList&logoColor=black" alt="WellFound Badge"/>
     </a>
 </div>
@@ -16,8 +16,9 @@
 <!-- ### About Me -->
 <h2>
 My name is Olga Bessonova. Welcome to my GitHub page!
+
 </h2>
-<p align="center" margin-top="5px" margin-bottom="20px">
+<p style="align=center; margin-top: 10px; margin-bottom=20px;">
  I am a software engineer with a degree in Data Science. My interests span across a wide spectrum, ranging from web development to machine learning and AI. I have a passion for new technologies and creative challenges. In every new project, the user experience is my top priority. I continuously strive to create an interface that is both attractive and intuitive, ensuring a positive experience for all users.
 </p>
 
