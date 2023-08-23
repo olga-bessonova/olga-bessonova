@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/portfolio-pink?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio Badge"/>
     </a>
     <a target="_blank" href="https://wellfound.com/u/olgabessonova">
-      <img src="https://img.shields.io/badge/wellfound-white?style=for-the-badge&logo=AngelList&logoColor=black" alt="WellFound Badge"/>
+      <img src="https://img.shields.io/badge/wellfound-beige?style=for-the-badge&logo=AngelList&logoColor=black" alt="WellFound Badge"/>
     </a>
 </div>
 
