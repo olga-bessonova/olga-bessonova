@@ -55,7 +55,7 @@ My name is Olga Bessonova. Welcome to my GitHub page!
 
 - 📫 How to reach me **olga.al.bessonova@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://olga-bessonova.github.io/portfolio/assets/CV_Olga_Bessonova_2023.08.03.pdf)
+- 📄 Know about my experiences [Resume](https://olgabessonova.com/assets/CV_Olga_Bessonova.pdf)
 
 - ⚡ Fun fact **I love dancing, video editing, flying my drone and learning Italian**
 </div>
