@@ -56,7 +56,7 @@ My name is Olga Bessonova. Welcome to my GitHub page!
 - Know about my experiences [Resume](https://olgabessonova.com/assets/CV_Olga_Bessonova.pdf)
 <!-- {:target="_blank"} -->
 
-- Fun fact **I love dancing, video editing, flying my drone, and learning Italian**
+- Fun fact: **I love dancing, video editing, flying my drone, and learning Italian**
 </div>
 
 <!-- <h3 align="left">Languages and Tools:</h3>
@@ -93,10 +93,10 @@ My name is Olga Bessonova. Welcome to my GitHub page!
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> -->
 </p> 
 
-<span align="left">Leetcode:
-<a href="https://www.leetcode.com/osleepless" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="osleepless" height="70" /></a>
+<span align="left">
+<a href="https://www.leetcode.com/osleepless" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="osleepless" height="100" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=olga-bessonova&show_icons=true&locale=en&layout=compact" alt="olga-bessonova" height="70"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=olga-bessonova&show_icons=true&locale=en&layout=compact" alt="olga-bessonova" height="100"/>
 </span>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olga-bessonova&show_icons=true&locale=en" alt="olga-bessonova" /></p>
