@@ -58,7 +58,7 @@ My name is Olga Bessonova. Welcome to my GitHub page!
 - 📄 Know about my experiences [Resume](https://olgabessonova.com/assets/CV_Olga_Bessonova.pdf)
 <!-- {:target="_blank"} -->
 
-- ⚡ Fun fact **I love dancing, video editing, flying my drone and learning Italian**
+- ⚡ Fun fact **I love dancing, video editing, flying my drone, and learning Italian**
 </div>
 
 <!-- <h3 align="left">Languages and Tools:</h3>
@@ -95,7 +95,7 @@ My name is Olga Bessonova. Welcome to my GitHub page!
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> -->
 </p> 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Leetcode:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/osleepless" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="osleepless" height="30" width="40" /></a>
 </p>
