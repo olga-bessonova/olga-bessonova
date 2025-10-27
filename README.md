@@ -2,10 +2,10 @@
    <img src="assets/computer.gif" width="150" style="margin-bottom: 30px;"/>
  
   <div id="badges">
-    <a target="_blank" href="https://www.linkedin.com/in/olgabessonova-/" target="_blank">
+    <a href="https://www.linkedin.com/in/olgabessonova-/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a target="_blank" href="https://olga-bessonova.github.io/portfolio/" target="_blank">
+    <a href="https://olga-bessonova.github.io/portfolio/" target="_blank">
       <img src="https://img.shields.io/badge/portfolio-pink?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio Badge"/>
     </a>
     <!-- <a target="_blank" href="https://wellfound.com/u/olgabessonova" target="_blank">
