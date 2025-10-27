@@ -95,10 +95,9 @@ My name is Olga Bessonova. Welcome to my GitHub page!
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> -->
 </p> 
 
-<h3 align="left">Leetcode:</h3>
-<p align="left">
+<span align="left">Leetcode:
 <a href="https://www.leetcode.com/osleepless" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="osleepless" height="30" width="40" /></a>
-</p>
+</span>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olga-bessonova&show_icons=true&locale=en&layout=compact" alt="olga-bessonova" /></p>
 
