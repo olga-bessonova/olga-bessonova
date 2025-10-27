@@ -51,14 +51,12 @@ My name is Olga Bessonova. Welcome to my GitHub page!
 <div id="bullets" align="left">
 <!-- - 👨‍💻 [Portfolio Site](https://olga-bessonova.github.io/portfolio/) -->
 
-- 💬 Ask me about **React, Python, Data Science**
+- Reach me **olga.al.bessonova@gmail.com**
 
-- 📫 How to reach me **olga.al.bessonova@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://olgabessonova.com/assets/CV_Olga_Bessonova.pdf)
+- Know about my experiences [Resume](https://olgabessonova.com/assets/CV_Olga_Bessonova.pdf)
 <!-- {:target="_blank"} -->
 
-- ⚡ Fun fact **I love dancing, video editing, flying my drone, and learning Italian**
+- Fun fact **I love dancing, video editing, flying my drone, and learning Italian**
 </div>
 
 <!-- <h3 align="left">Languages and Tools:</h3>
@@ -96,10 +94,10 @@ My name is Olga Bessonova. Welcome to my GitHub page!
 </p> 
 
 <span align="left">Leetcode:
-<a href="https://www.leetcode.com/osleepless" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="osleepless" height="30" width="40" /></a>
-</span>
+<a href="https://www.leetcode.com/osleepless" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="osleepless" height="70" /></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olga-bessonova&show_icons=true&locale=en&layout=compact" alt="olga-bessonova" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=olga-bessonova&show_icons=true&locale=en&layout=compact" alt="olga-bessonova" height="70"/>
+</span>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olga-bessonova&show_icons=true&locale=en" alt="olga-bessonova" /></p>
 
